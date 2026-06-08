@@ -1,0 +1,7 @@
+interface:
+  display_name: "Expressive White Article Illustrations"
+  short_description: "Generate sparse absurd article illustrations"
+  default_prompt: "Use $expressive-white-article-illustrations to design and generate a set of sparse absurd illustrations for this English article."
+
+policy:
+  allow_implicit_invocation: true
